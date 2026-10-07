@@ -1,0 +1,21 @@
+:root {
+  --bg: #0b0c0a;
+  --panel: #141612;
+  --line: #2a2d25;
+  --text: #f1f3ea;
+  --muted: #9a9f8f;
+  --lime: #c6ff3d;
+  --on-lime: #0b0c0a;
+
+  --font-display: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
+  --font-body: "Instrument Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+
+  --radius: 14px;
+  --radius-sm: 8px;
+  --container: 1200px;
+  --gutter: clamp(1rem, 4vw, 2rem);
+  --section-y: clamp(4rem, 9vw, 7.5rem);
+  --nav-h: 68px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
